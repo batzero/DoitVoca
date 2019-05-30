@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234619005884",
+    "firebase_url": "https://doitvoca2.firebaseio.com",
+    "project_id": "doitvoca2",
+    "storage_bucket": "doitvoca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234619005884:android:16eb9f57c1c62010",
+        "android_client_info": {
+          "package_name": "com.jiyoung.doitvoca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234619005884-8pm2m4l1ccruopl9vd2iraua47fp4953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA69IV8j53IICVUd7SmKmQ8ne0bmvN9Sqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234619005884-8pm2m4l1ccruopl9vd2iraua47fp4953.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
